@@ -33,23 +33,23 @@ These are some of the technologies and tools I use:
 
 - Languages
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,nodejs,py)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)
 
 - Frontend
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,jquery,react,next,redux,sass,styledcomponents,tailwind,jest,bootstrap)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
 
 - Backend
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=express,nest,docker,prisma,jest,firebase)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)
 
 - Database
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 - Tools
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,git,github,githubactions,gitlab,vitest,grafana,elasticsearch,figma,postman)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,git,github)](https://skillicons.dev)
 
 ### 📈 My Statistics
 

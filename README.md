@@ -49,7 +49,7 @@ These are some of the technologies and tools I use:
 
 - Tools
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,git,github)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ### 📈 My Statistics
 

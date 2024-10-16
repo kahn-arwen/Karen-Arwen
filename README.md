@@ -41,7 +41,7 @@ These are some of the technologies and tools I use:
 
 - Backend
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=c,cs,cpp)](https://skillicons.dev)
 
 - Database
 
